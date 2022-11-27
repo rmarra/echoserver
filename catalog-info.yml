@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: echoserver
+  description: Echo server for testing backstage catalog
+spec:
+  type: service
+  lifecycle: development
+  
