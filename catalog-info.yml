@@ -4,7 +4,7 @@ metadata:
   name: echoserver
   description: Echo server for testing backstage catalog
   annotations:
-    'backstage.io/kubernetes-id: echo
+    'backstage.io/kubernetes-id': echo
 spec:
   type: service
   lifecycle: development
